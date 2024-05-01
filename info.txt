@@ -1,0 +1,3 @@
+name toyin
+age  42
+status ceo
