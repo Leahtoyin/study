@@ -1,0 +1,3 @@
+name mary
+age 32
+status mgr
