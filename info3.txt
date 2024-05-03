@@ -1,4 +1,5 @@
 name adeola
 age 31
 status sup
-DDDD
+wages
+token code
