@@ -1,5 +1,0 @@
-name adeola
-age 31
-status sup
-wages
-token code
