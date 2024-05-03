@@ -2,4 +2,4 @@ name toyin
 age  42
 status ceo
 address oloje ido
-AAAAA
+salary
